@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "name": "VORTEX-MD",
+  "description": "Javascript WhatsApp bot made by ʏᴏᴜʀ ᴠᴏʀᴛᴇx",
+  "logo": "https://ibb.co/NqgZDf8",
+  "keywords": ["VORTEX-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -15,19 +15,19 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "Mʀ-Sʜᴀʙᴀɴ"
+      "value": "ʏᴏᴜʀ ᴠᴏʀᴛᴇx"
     }, 
 
     "OWNER_NUMBER": {
       "description": "Put Your WhatsApp Number Link Device",
       "required": false,
-      "value": "923059395959"
+      "value": "+923478351899"
     }, 
     
     "MENU_IMAGE_URL": {
       "description": "Add Your Imgae Url Bot Menu",
       "required": true,
-      "value": "https://files.catbox.moe/abrl88.jpg"
+      "value": "https://ibb.co/mrsR16tT"
     }, 
       
     "PREFIX": {
